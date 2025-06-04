@@ -25,8 +25,8 @@
 
 ### Contact Me:
 
-- 📧 Drop me an email at [email@example.com](mailto:email@example.com)
-- 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohamedshameer)
+- 📧 Drop me an email at [email@example.com](mailto:mohamedshameer573@gmail.com)
+- 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/shameer14/)
 
 ## 📈 GitHub Stats
 
