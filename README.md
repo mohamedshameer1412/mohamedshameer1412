@@ -80,9 +80,9 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="mailto:mohamedshameer573@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/shameer14/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/shameer_1412/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:mohamedshameer573@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
+  <a href="https://www.linkedin.com/in/shameer14/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+  <a href="https://www.instagram.com/shameer_1412/"><img src="https://skillicons.dev/icons?i=insta"></a>
 </p>
 
 ---
