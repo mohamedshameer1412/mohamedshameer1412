@@ -31,7 +31,7 @@
 ## 🧰 Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,php,react,nextjs,nodejs,express,django,flask,mysql,mongodb,sqlite,bootstrap,tailwind,figma,blender,canva,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,php,react,nextjs,nodejs,express,django,flask,mysql,mongodb,sqlite,bootstrap,tailwind,figma,blender,reactNative,git,linux" />
 </p>
 
 ---
