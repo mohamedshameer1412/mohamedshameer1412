@@ -83,7 +83,6 @@
   <a href="mailto:mohamedshameer573@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
   <a href="https://www.linkedin.com/in/shameer14/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
   <a href="https://www.instagram.com/shameer_1412/"><img src="https://skillicons.dev/icons?i=instagram"></a>
-  <a href="https://www.instagram.com/shameer_1412/"><img src="https://skillicons.dev/icons?i=hackrank"></a>
 </p>
 
 ---
